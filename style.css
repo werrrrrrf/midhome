@@ -45,7 +45,7 @@ header{
 }
 
 #menu-icon{
-    color: white;
+    color: black;
     font-size: 35px;
     z-index: 10001;
     cursor: pointer;
