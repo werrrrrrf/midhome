@@ -308,6 +308,25 @@ span{
     #menu-icon{
         display: block;
     }
+    .hero-text h4{
+        font-size: 17px;
+    }
+    .hero-text h1{
+        font-weight: 700;
+        text-decoration: overline;
+        padding-bottom: 1px;
+        padding-top: 5px;
+        font-size: 30px;
+    }
+    .icons{
+        display: block;
+        position: absolute;
+        bottom: 80%;
+    }
+    .hero{
+        min-width: 600px;
+        min-height: 1100px;
+    }
     .navlist{
         position: absolute;
         top: 100%;
